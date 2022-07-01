@@ -1,0 +1,6 @@
+tmp/
+out/
+.idea/
+Thumbs.db
+.DS_Store
+HomeworkJCore-1.1.1.iml
